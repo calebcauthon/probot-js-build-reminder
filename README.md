@@ -1,6 +1,6 @@
-# probot-pylinter
+# probot-js-build-reminder
 
-> a GitHub App built with [probot](https://github.com/probot/probot) that 
+> a GitHub App built with [probot](https://github.com/probot/probot) that reminds you to manually compile your js
 
 ## Setup
 
